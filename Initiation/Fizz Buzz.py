@@ -1,7 +1,3 @@
-# Your optional code here
-# You can import some modules or create additional functions
-
-
 def checkio(number: int) -> str:
     if (number % 3 == 0) & (number % 5 == 0):
         return "Fizz Buzz"

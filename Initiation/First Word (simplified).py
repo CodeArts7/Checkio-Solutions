@@ -14,4 +14,3 @@ if __name__ == "__main__":
     assert first_word("a word") == "a"
     assert first_word("hi") == "hi"
     print("Coding complete? Click 'Check' to earn cool rewards!")
-
