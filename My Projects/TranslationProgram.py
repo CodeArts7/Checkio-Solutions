@@ -12,4 +12,4 @@ def translation(text: str) -> str:
                '\nОбратитесь в службу поддержки по ссылке ниже.'
 
 
-print(translation(''))
+print(translation('ghbdtn'))
